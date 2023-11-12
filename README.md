@@ -1,1 +1,1 @@
-# causal-mm-bias
+# Multimodal Bias in Medical ML
