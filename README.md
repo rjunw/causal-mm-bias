@@ -9,3 +9,5 @@
 `./utils`: Loss function definitions, other useful utilities
 
 `./data`: Custom dataset definitions
+
+`*.ipynb`: Experiment files
